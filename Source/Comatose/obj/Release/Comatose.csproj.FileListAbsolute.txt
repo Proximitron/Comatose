@@ -1,0 +1,9 @@
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\bin\Release\Comatose.dll
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\bin\Release\Comatose.pdb
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\bin\Release\0Harmony.dll
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\bin\Release\HugsLib.dll
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\bin\Release\HugsLib.xml
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\obj\Release\Comatose.csprojAssemblyReference.cache
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\obj\Release\Comatose.csproj.CopyComplete
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\obj\Release\Comatose.dll
+F:\Games\SteamLibrary\steamapps\workshop\content\294100\2013401375\Source\Comatose\obj\Release\Comatose.pdb

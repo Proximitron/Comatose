@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Games\\SteamLibrary\\steamapps\\workshop\\content\\294100\\2013401375\\Source\\Comatose\\Comatose.csproj": {}
+  },
+  "projects": {
+    "F:\\Games\\SteamLibrary\\steamapps\\workshop\\content\\294100\\2013401375\\Source\\Comatose\\Comatose.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Games\\SteamLibrary\\steamapps\\workshop\\content\\294100\\2013401375\\Source\\Comatose\\Comatose.csproj",
+        "projectName": "Comatose",
+        "projectPath": "F:\\Games\\SteamLibrary\\steamapps\\workshop\\content\\294100\\2013401375\\Source\\Comatose\\Comatose.csproj",
+        "packagesPath": "C:\\Users\\proxi\\.nuget\\packages\\",
+        "outputPath": "F:\\Games\\SteamLibrary\\steamapps\\workshop\\content\\294100\\2013401375\\Source\\Comatose\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\proxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Krafs.Rimworld.Ref": {
+              "target": "Package",
+              "version": "[1.1.2562, )"
+            },
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.0.0.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
