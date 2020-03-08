@@ -38,7 +38,10 @@ Featurs:
   - Japanese translation(by Proxyer)
   - Spanish / SpanishLatin translation (by Pollo frito) 
   - "Artificial coma" surgery (5 medicine). Will induce a unlimited comatose state that gets "worse" over time (10 days until death). But it will slow down all negativ effects of DeathRattle. Induced early it can double the time you have to get a new organ. To wakeup a pawn you need to use the drug "Wake-Up". Artificial coma will not work on pawns with current Wake-Up-High. Warning: Starting at severity 0.7 (after 7 days) the comatose state will gratually lead to brain damage and vegetativ state.
-  
+
+Github:
+  - https://github.com/Proximitron/Comatose
+
 If you are missing a feature or compatibelity of Death Rattle, leave a comment.
 	</description>
 </ModMetaData>
